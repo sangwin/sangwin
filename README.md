@@ -11,7 +11,7 @@ I have a belief that theory teaches us nothing, it's actual implementation which
 
 -----------
 
-<a href="[https://github.com/sangwin](https://stackoverflow.com/users/5765795/sangwin-gawande)" target="_blank">
+<a href="https://stackoverflow.com/users/5765795/sangwin-gawande" target="_blank">
  <img height="50" alt="Sangwin Gawande Stackoverflow Stats" src="https://stackoverflow.com/users/flair/5765795.png?theme=dark"/>
 </a>
 
