@@ -32,4 +32,4 @@ I have a belief that theory teaches us nothing, it's actual implementation which
 CONTACT ME : [SANGW.IN](https://sangw.in) | [MyCV](https://docs.google.com/document/d/1P2UmZdZqFcFjesJk5A5f1tBeJCPPmXaThnnCsivqoL8/edit) | [imsangwin@gmail.com](mailto:imsangwin@gmail.com) | [LinkedIn](https://in.linkedin.com/in/sangwin) | [StackOverflow](https://stackoverflow.com/users/5765795/sangwin-gawande) | [GitHub](https://github.com/sangwin)
 
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=badge&label=Thank%20you%20for%20visiting%20%28Since%20June%202022%29&query=value&url=https://api.countapi.xyz/hit/sangwin.sangwin/readme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=badge&label=Thank%20you%20for%20visiting%20%28Since%20July%202022%29&query=value&url=https://api.countapi.xyz/hit/sangwin.sangwin/readme)
