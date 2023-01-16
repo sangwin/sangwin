@@ -25,7 +25,6 @@ I have a belief that theory teaches us nothing, it's actual implementation which
 - 💬 Ask me about Front End Tech
 - 📫 How to reach me: https://sangw.in
 - 😄 Pronouns: He/Him, संगविन
-- ⚡ Fun fact: Quick learner. 
 
 -----------
 
