@@ -5,7 +5,7 @@ I have a belief that theory teaches us nothing, it's actual implementation which
 -----------
 
 <a href="https://github.com/sangwin" target="_blank">
-  <img height="225" alt="Sangwin Gawande Stats" src="https://github-readme-stats.vercel.app/api?username=sangwin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="225" alt="Sangwin Gawande Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangwin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="225" alt="Sangwin Gawande Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwin&theme=merko"/>
 </a>
 
