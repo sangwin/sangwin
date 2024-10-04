@@ -18,12 +18,12 @@ I have a belief that theory teaches us nothing, it's actual implementation which
 
 -----------
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 👯 I’m looking to collaborate on things that matters
-- 🤔 I’m looking for help to do something for security vulnerabilities notifications in my github repos 😄
-- 💬 Ask me about Front End Tech
-- 📫 How to reach me: https://sangw.in
+- 🔭 Current Work: I'm currently working with ReactJS and NodeJS.
+- 🌱 Interests: I enjoy working with Angular, Next.js, NestJS, and Node.js.
+- 👯 Collaboration: I'm looking to collaborate on projects that matter.
+- 🤔 Help Needed: I would appreciate assistance in implementing security vulnerability notifications for my GitHub repositories. 😄
+- 💬 Ask Me About: Feel free to ask me about Web Technologies!
+- 📫 Reach Out: You can connect with me at sangw.in.
 - 😄 Pronouns: He/Him, संगविन
 
 -----------
