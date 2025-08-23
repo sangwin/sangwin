@@ -10,6 +10,19 @@ I have a belief that theory teaches us nothing, it's actual implementation which
 </a>
 
 -----------
+<a href="https://github.com/sangwin" target="_blank">
+  <!-- GitHub Stats -->
+  <img height="200" alt="Sangwin Gawande GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangwin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  
+  <!-- Top Languages -->
+  <img height="200" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangwin&theme=merko"/>
+  
+  <!-- GitHub Trophies (includes total stars & forks) -->
+  <img height="200" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sangwin&theme=algolia&no-frame=true&row=1&title=stars,forks"/>
+</a>
+
+-----------
+
 
 <a href="https://stackoverflow.com/users/5765795/sangwin-gawande" target="_blank">
  <img height="50" alt="Sangwin Gawande Stackoverflow Stats" src="https://stackoverflow.com/users/flair/5765795.png?theme=dark"/>
