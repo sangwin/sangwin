@@ -53,12 +53,6 @@ Mentored junior developers and implemented team-wide best coding practices.
 
 Delivered multiple cross-platform apps with 4.8+ ratings on app stores.
 
------------
-
-<a href="https://github.com/sangwin" target="_blank">
-  <img height="225" alt="Sangwin Gawande Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangwin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="225" alt="Sangwin Gawande Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangwin&theme=merko"/>
-</a>
 
 -----------
 
