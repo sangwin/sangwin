@@ -1,68 +1,73 @@
-### Hello There 👋
+### Hello there 👋
 
-I am Sangwin.. Full Stack Web & Mobile Developer.
+I'm **Sangwin Gawande**, a Full Stack Web & Mobile Developer and Technical Consultant at **GlobalLogic (a Hitachi Group Company)**.
 
-I design, build, and scale high-performance web applications — from elegant front-end experiences to robust, secure back-end systems. With over 10 years of hands-on experience, I help startups and enterprises turn complex ideas into reliable, scalable products.
+I believe theory teaches us little; implementation teaches us everything. My motto: **Learn and Share.**
+Outside of code, I'm a music freak and an ardent traveller.
 
-I’m a passionate Full-Stack Engineer with a strong focus on solving real-world problems with clean, maintainable code. My expertise spans:
+---
 
-Front-end development
+### ⚡ What I Do
 
-Back-end APIs & microservices
+Experienced **Software Engineer and Technical Lead** with expertise in full-stack web development.
 
-Mobile applications
+​🎨 **Frontend development:** React.js, Angular, JavaScript and TypeScript
+​⚙️ **Backend development:** Node.js, PHP and Laravel
+​📱 **Responsive websites and web applications:** Building UIs that work across devices
+​🔌 **APIs:** REST API development and third-party API integration
+​🗄️ **Databases:** Managing MySQL and MongoDB
+​🧩 **Adobe Experience Manager (AEM):** AEM development and website migration
+​🏢 **Enterprise applications:** Developing and maintaining enterprise applications
+​🛒 **E-commerce and CMS:** Building e-commerce and content management systems
+​⚡ **Performance:** Optimizing website performance and code
+​🛠️ **Production support:** Debugging and troubleshooting
+​🛡️ **Reliability:** Application monitoring, reliability and incident management
+​🚀 **DevOps:** CI/CD pipelines, software deployment and release management
+​🔍 **Code quality:** Code reviews and maintaining coding standards
+​🏗️ **Architecture:** Technical architecture, planning and solution design
+​👥 **Leadership:** Leading engineering teams and coordinating projects
+​🧑‍🏫 **Mentoring:** Mentoring junior developers and supporting team growth
+​🤝 **Collaboration:** Working with clients and cross-functional teams
+​🤖 **AI-assisted development:** GitHub Copilot, Claude and Gemini
+​🔁 **Automation:** Automating development work and improving workflows
+​✍️ **Writing on [Medium](https://sangwin.medium.com):** Technical documentation, blogging and knowledge sharing
+​🙋 **Solving on [Stack Overflow](https://stackoverflow.com/users/5765795/sangwin-gawande):** Answering questions and helping developers get unblocked
+​🌱 **Open source on [GitHub](https://github.com/sangwin):** Starter apps, libraries and demos for Angular, React and Next.js
 
-Cloud deployment & DevOps practices
-
-I thrive on challenges that push me to innovate and implement solutions efficiently. I also mentor junior developers and share best practices to elevate entire teams.
-
-I have a belief that theory teaches us nothing, it's actual implementation which does. I'm set out on a journey of implementing hard earned IT skills to write amazing lines of code. Loving every bit of my work, I am also a music freak & an ardent traveller.
-
------------
-
-Expertise & Skills
-Front-End Development:
-
-HTML, CSS, JavaScript, React, Next.js — crafting elegant, responsive UI/UX experiences.
-
-Back-End & APIs:
-
-Node.js, Express, MongoDB, PostgreSQL — designing scalable, secure, and maintainable APIs.
-
-Mobile Applications:
-
-React Native — cross-platform mobile apps optimized for performance and usability.
-
-Cloud & DevOps:
-
-AWS, Docker, CI/CD pipelines — deploying and maintaining scalable cloud infrastructure.
-
-Technical Leadership:
-
-Mentorship, team management, code reviews, and implementing best practices for development teams.
-
------------
-
-Achievements & Highlights
-
-Successfully migrated over 800 enterprise websites for a global brand without downtime.
-
-Reduced web application build and deployment time by 30% through optimization.
-
-Mentored junior developers and implemented team-wide best coding practices.
-
-Delivered multiple cross-platform apps with 4.8+ ratings on app stores.
-
-
------------
-
+ Focused on building **scalable, secure, reliable and maintainable** software solutions.
 
 <a href="https://stackoverflow.com/users/5765795/sangwin-gawande" target="_blank">
- <img height="50" alt="Sangwin Gawande Stackoverflow Stats" src="https://stackoverflow.com/users/flair/5765795.png?theme=dark"/>
+  <img height="50" alt="Sangwin Gawande Stack Overflow stats" src="https://stackoverflow.com/users/flair/5765795.png?theme=dark"/>
 </a>
 
+---
 
------------
+### 🛠️ Skills
 
-CONTACT ME : [SANGW.IN](https://sangw.in) | [MyCV](https://docs.google.com/document/d/1P2UmZdZqFcFjesJk5A5f1tBeJCPPmXaThnnCsivqoL8/edit) | [imsangwin@gmail.com](mailto:imsangwin@gmail.com) | [LinkedIn](https://in.linkedin.com/in/sangwin) | [StackOverflow](https://stackoverflow.com/users/5765795/sangwin-gawande) | [GitHub](https://github.com/sangwin)
+**Front-end:** Angular · React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · SASS/LESS · Bootstrap · Angular Material · PrimeNG · Kendo UI
+**Back-end:** Node.js · NestJS · Express · GraphQL · Laravel · PHP
+**Databases:** MySQL · PostgreSQL · MongoDB
+**Mobile:** React Native · Ionic · Cordova
+**Cloud & DevOps:** AWS · Docker · CI/CD · Git
+**CMS & Commerce:** Adobe Experience Manager (AEM) · WordPress · Magento
+**Data Viz & Maps:** D3.js · Chart.js · Google Maps · Leaflet
+**Practices:** Performance Optimization (Lighthouse, RUM) · Accessibility · PWAs · SRE Monitoring · Agile/Scrum · Code Reviews · Mentoring · AI-assisted Development
 
+---
+
+### 💼 Work Experience
+
+I started as the first engineer at a startup and grew into technical leadership roles at global technology and consulting firms. Along the way I've led engineering teams on enterprise web and mobile applications for telecom, consumer products and digital platform clients. That work has included large-scale website migrations on Adobe Experience Manager, production reliability and incident management, and mentoring developers. Full details are on [LinkedIn](https://in.linkedin.com/in/sangwin).
+
+———-
+
+### 🏆 Recognition
+
+​**GlobalLogic Eminence Award**
+​Nominated at Publicis Sapient for Partnering for Client Impact and Consumer Products: Recognition & Gratitude
+
+---
+
+### 📫 Connect
+
+[Website](https://sangw.in) · [Email](mailto:imsangwin@gmail.com) · [LinkedIn](https://in.linkedin.com/in/sangwin) · [Medium](https://sangwin.medium.com) · [Stack Overflow](https://stackoverflow.com/users/5765795/sangwin-gawande) · [YouTube](https://youtube.com/channel/UCcSEmzwInXsFebQlTU2hZgA)
